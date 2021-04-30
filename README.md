@@ -6,5 +6,5 @@ webapp
       request
       response
     client
-  console
+  console (admin commands)
     
