@@ -9,8 +9,9 @@ webapp
     client+ (ip, ua[device])
       user (guest/auth)
       services (web, api)
-      routes
-      
+      routes (type, path & params)
+      webpage (html)
+      content (mime)
   console (admin [default] commands)
     commands (everything can be handled)
     
