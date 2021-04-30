@@ -8,7 +8,7 @@ webapp
       response (status, header, content)
     client+ (ip, ua[device])
       user (guest/auth)
-      session (visiting period: heart)
+      session (visiting period: heartbeat)
       service (web, api)
       route (type, path & params)
       webpage (html)
