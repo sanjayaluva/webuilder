@@ -1,9 +1,10 @@
 # webuilder
 
 webapp
-  web
+  web (protocol:http/https)
     server
-      
+      request
+      response
     client
   console
     
