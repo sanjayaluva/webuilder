@@ -7,8 +7,10 @@ webapp
         handler (request, response)
       response (status, header, content)
     client+ (ip, ua[device])
-      user (auth)
+      user (guest/auth)
       services (web, api)
+      routes
+      
   console (admin [default] commands)
     commands (everything can be handled)
     
