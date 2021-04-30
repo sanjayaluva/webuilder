@@ -6,7 +6,7 @@ webapp
       request (type, route & params[all])
         handler{} (request, response)
       response (status, header, content)
-    client+ (ip, ua[device])
+      client+ (ip, ua[device])
       user (guest/auth)
       session (visiting period: heartbeat)
       service (web, api)
