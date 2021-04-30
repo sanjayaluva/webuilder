@@ -8,8 +8,9 @@ webapp
       response (status, header, content)
     client+ (ip, ua[device])
       user (guest/auth)
-      services (web, api)
-      routes (type, path & params)
+      
+      service (web, api)
+      route (type, path & params)
       webpage (html)
       content (mime)
   console (admin [default] commands)
