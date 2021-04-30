@@ -9,5 +9,6 @@ webapp
     client+ (ip, ua[device])
       user (auth)
       services (web, api)
-  console (admin commands)
-    commands (everything can be)
+  console (admin [default] commands)
+    commands (everything can be handled)
+    
