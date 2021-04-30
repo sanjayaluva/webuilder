@@ -3,7 +3,7 @@
 webapp
   web (protocol:http/https)
     server
-      request (type,route&params[get,post,header,content])
+      request (type, route & params [all])
       response (status,header,content)
     client
   console (admin commands)
