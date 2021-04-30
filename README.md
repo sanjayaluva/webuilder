@@ -10,4 +10,4 @@ webapp
       user (auth)
       services (web, api)
   console (admin commands)
-    command
+    commands (everything can be)
