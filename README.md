@@ -8,6 +8,6 @@ webapp
       response (status, header, content)
     client+ (ip, ua[device])
       user (auth)
-      
+      services (web, api)
   console (admin commands)
-    
+    command
