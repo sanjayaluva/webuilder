@@ -17,3 +17,6 @@ webapp
   console (admin [default] commands)
     commands (everything can be handled)
     
+internet
+  web service
+    
