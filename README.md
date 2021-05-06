@@ -20,7 +20,7 @@ webapp
 internet
   web service
     webapp
-      server
+      server ()
         request
         response
       client+ (user)
