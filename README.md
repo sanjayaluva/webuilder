@@ -32,6 +32,6 @@ web
     request
     response
   client
-    request (relative)
-    response
+    request (relative*/absolute)
+    response (document/content)
     
