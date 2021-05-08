@@ -34,4 +34,7 @@ web
   client
     request (relative*/absolute)
     response (document/content)
-    
+
+app
+  name
+  version
