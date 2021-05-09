@@ -44,7 +44,7 @@ app
     composer
     npm
     bower
-    custom (libraries)
+    custom (libraries:local/remote)
   handle
     web
       server
