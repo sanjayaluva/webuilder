@@ -43,4 +43,5 @@ app
     composer
     npm
     bower
-    
+    custom (libraries)
+  
