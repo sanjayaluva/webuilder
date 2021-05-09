@@ -40,7 +40,7 @@ app
   description
   version
   requirements
-    php 
+    php (ver,exts)
     composer
     npm
     bower
