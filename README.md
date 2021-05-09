@@ -39,4 +39,8 @@ app
   name
   description
   version
-  
+  requirements
+    composer
+    npm
+    bower
+    
