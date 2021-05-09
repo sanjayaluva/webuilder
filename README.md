@@ -37,5 +37,6 @@ web
 
 app
   name
+  description
   version
   
